@@ -1,4 +1,5 @@
 # Setup Guide
+
 Register here : 
 ```Bash
 https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
@@ -57,6 +58,11 @@ The accounts.json file contains a list of accounts that the application will use
 ![Copy Bearer Token](assets/Image_3.jpg)
 
 ![Copy appid](assets/Image_4.jpg)
+
+If the Token cannot be copied, take a screenshot like this,and go to Crome write Convert picture to text.
+(assets/Image_5.jpg)
+(assets/image_6.jpg)
+
 
 ## Install Dependencies
 
