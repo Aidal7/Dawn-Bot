@@ -59,9 +59,12 @@ The accounts.json file contains a list of accounts that the application will use
 
 ![Copy appid](assets/Image_4.jpg)
 
-If the Token cannot be copied, take a screenshot like this,and go to Crome write Convert picture to text.
-/assets/Image_5/.jpg
-/assets/image_6/.jpg
+If the Token cannot be copied, take a screenshot like this,and go to Google Crome write
+```bash
+Convert picture to text
+```
+![copy](assets/Image_5.jpg)
+![Copy](assets/image_6.jpg)
 
 
 ## Install Dependencies
