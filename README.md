@@ -64,7 +64,7 @@ If the Token cannot be copied, take a screenshot like this,and go to Google Crom
 Convert picture to text
 ```
 ![copy](assets/Image_5.jpg)
-![Copy](assets/image_6.jpg)
+![](assets/image_6.jpg)
 
 
 ## Install Dependencies
