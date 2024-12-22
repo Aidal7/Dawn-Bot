@@ -1,6 +1,6 @@
 # Setup Guide
 Register here : 
-``Bash
+```Bash
 https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
 ``
 
