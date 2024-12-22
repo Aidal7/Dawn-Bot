@@ -1,4 +1,14 @@
 # Setup Guide
+Register here : 
+``Bash
+https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp
+``
+
+if you want use my Reff code :
+```bash
+pghab5ry
+```
+
 
 This project requires you to configure two JSON files: `accounts.json` and `proxy.json` before running the application.
 
