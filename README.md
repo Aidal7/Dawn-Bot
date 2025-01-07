@@ -67,14 +67,16 @@ Convert picture to text
 ![](assets/image_6.jpg)
 
 ## Start the project
-git clone https://github.com/Aidal7/Dawn-Bot.git
+Clone Repo
+```bash
+https://github.com/Aidal7/Dawn-Bot.git
+```
 
-## Install Dependencies
-
+install Dependence
 ```bash
 npm install
 ```
-
+Run bot
 ```bash
 node index.js
 ```
